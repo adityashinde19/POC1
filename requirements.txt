@@ -1,5 +1,0 @@
-streamlit
-pandas
-ultralytics
-openai
-python-dotenv
